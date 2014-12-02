@@ -1,4 +1,4 @@
-require 'JSON'
+require 'json'
 
 module Footpad
 
@@ -69,7 +69,4 @@ module Footpad
 
     result.to_json
   end
-
-
-
 end

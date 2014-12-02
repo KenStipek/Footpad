@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'footpad'
-  s.version     = '0.5.0'
+  s.version     = '0.5.1'
   s.date        = '2014-11-24'
   s.summary     = "Geckoboard.com Ready Data"
   s.description = "A Gem to help create custom Geckoboard data."
